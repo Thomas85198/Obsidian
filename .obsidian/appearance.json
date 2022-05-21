@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Bryans Gruvbox",
+  "enabledCssSnippets": [
+    "dot relationship line",
+    "unresolved"
+  ]
+}
