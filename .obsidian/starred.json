@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Daily Retrospective",
+      "path": "📥/Daily Retrospective.md"
+    },
+    {
+      "type": "file",
+      "title": "Weekly Retrospective",
+      "path": "📥/Weekly Retrospective.md"
+    }
+  ]
+}

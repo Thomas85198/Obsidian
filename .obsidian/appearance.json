@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "dot relationship line",
     "unresolved"
-  ]
+  ],
+  "baseFontSize": 13
 }

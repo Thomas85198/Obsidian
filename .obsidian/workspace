@@ -7,8 +7,12 @@
         "id": "ace85203a4c6fe59",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -31,17 +35,27 @@
             }
           },
           {
-            "id": "232c8cceab71b854",
+            "id": "e6c59db6ff35a339",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0314bd290e57ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc14d8e0e4c5bfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -49,22 +63,38 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5
   },
   "right": {
     "id": "7bcf5ae57170e070",
     "type": "split",
     "children": [
       {
-        "id": "9dbedbb9d664f8af",
+        "id": "0d04ff4f650a2b68",
         "type": "tabs",
         "children": [
+          {
+            "id": "232c8cceab71b854",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#🌱",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "8790829915002b14",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,13 +104,116 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "ad0310ed9c01401c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "03fcfef4c12a5f63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md"
+              }
+            }
+          },
+          {
+            "id": "d09cd7632b7c70be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aedb60d2f8f43a6",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "966441fbd409ac04",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "67ff51bb5a45018d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "a094676a38774566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c48af7544602ae",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1331693126332807,
+                  "close": false
+                }
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358.5
   },
   "active": "ace85203a4c6fe59",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
+    "📥/Algorithmic Toolbox - W1 Background knowledge.md",
+    "📥/資料結構 - 資料結構與演算法.md",
+    "📥/Daily Retrospective.md",
+    "Daily Note/2022-06-05.md",
+    "Daily Note/2022-06-06.md",
+    "Template/🎬 - 影片.md",
+    "Template/💻 - 網路文章.md",
+    "Template/📓 - Daily Update.md",
+    "📥/Weekly Retrospective.md"
+  ]
 }

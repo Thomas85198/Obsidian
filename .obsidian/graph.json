@@ -5,9 +5,31 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#🌱",
+      "color": {
+        "a": 1,
+        "rgb": 5586751
+      }
+    },
+    {
+      "query": "tag:#🌲",
+      "color": {
+        "a": 1,
+        "rgb": 6663800
+      }
+    },
+    {
+      "query": "tag:#☀️",
+      "color": {
+        "a": 1,
+        "rgb": 16121707
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -18,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }

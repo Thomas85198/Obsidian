@@ -2,5 +2,11 @@
   "strictLineBreaks": true,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "legacyEditor": false,
+  "foldIndent": false,
+  "foldHeading": false,
+  "showIndentGuide": false,
+  "autoConvertHtml": false,
+  "newFileFolderPath": "📥"
 }
