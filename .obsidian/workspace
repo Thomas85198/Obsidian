@@ -190,7 +190,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1331693126332807,
+                  "scale": 0.5554790375729193,
                   "close": false
                 }
               }
@@ -200,19 +200,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 251
   },
   "active": "ace85203a4c6fe59",
   "lastOpenFiles": [
     "Daily Note/2022-06-21.md",
+    "Daily Note/2022-06-05.md",
+    "Daily Note/2022-06-11.md",
     "📥/[ReactJS] Npm, Nvm, Npx.md",
+    "📥/[ReactJS] create-react-app 優點與缺點.md",
+    "📥/[ReactJS] create-react-app 操作.md",
+    "📥/[Go Lang] 基礎指令與怎麼寫出 Hello World.md",
     "Daily Note/2022-06-18.md",
     "Daily Note/2022-06-12.md",
-    "Daily Note/2022-06-11.md",
-    "Daily Note/2022-06-05.md",
-    "📥/Weekly Retrospective.md",
-    "📥/Daily Retrospective.md",
-    "📥/[Go Lang] 基礎指令與怎麼寫出 Hello World.md",
-    "📥/時間管理.md"
+    "📥/Weekly Retrospective.md"
   ]
 }
