@@ -8,5 +8,7 @@
   "foldHeading": false,
   "showIndentGuide": false,
   "autoConvertHtml": false,
-  "newFileFolderPath": "📥"
+  "newFileFolderPath": "📥",
+  "attachmentFolderPath": "Image",
+  "alwaysUpdateLinks": true
 }

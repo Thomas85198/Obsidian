@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
+            "file": "Daily Note/2022-06-21.md",
             "mode": "source",
             "source": false
           }
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 412
   },
   "right": {
     "id": "7bcf5ae57170e070",
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🌱",
+                "query": "\"截圖 2022-06-10 23.22.02.png\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
+                "file": "Daily Note/2022-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md"
+                "file": "Daily Note/2022-06-21.md"
               }
             }
           },
@@ -155,8 +155,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "a094676a38774566",
@@ -168,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
+                "file": "Daily Note/2022-06-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,19 +200,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 100
   },
   "active": "ace85203a4c6fe59",
   "lastOpenFiles": [
-    "📥/Algorithmic Toolbox - W1 Solving the Sum of 2 Digits.md",
-    "📥/Algorithmic Toolbox - W1 Background knowledge.md",
-    "📥/資料結構 - 資料結構與演算法.md",
-    "📥/Daily Retrospective.md",
+    "Daily Note/2022-06-21.md",
+    "📥/[ReactJS] Npm, Nvm, Npx.md",
+    "Daily Note/2022-06-18.md",
+    "Daily Note/2022-06-12.md",
+    "Daily Note/2022-06-11.md",
     "Daily Note/2022-06-05.md",
-    "Daily Note/2022-06-06.md",
-    "Template/🎬 - 影片.md",
-    "Template/💻 - 網路文章.md",
-    "Template/📓 - Daily Update.md",
-    "📥/Weekly Retrospective.md"
+    "📥/Weekly Retrospective.md",
+    "📥/Daily Retrospective.md",
+    "📥/[Go Lang] 基礎指令與怎麼寫出 Hello World.md",
+    "📥/時間管理.md"
   ]
 }
